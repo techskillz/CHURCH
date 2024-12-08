@@ -34,8 +34,8 @@ const Main = () => {
         <img src="/assets/Company logo.png" alt="companylo" />
         <img src="/assets/Company logo (1).png" alt="clo" />
         <img src="/assets/Company logo (2).png" alt="ccc" />
-        <img src="/src/assets/Company logo (3).png" alt="cvc" />
-        <img src="/src/assets/Company logo (4).png" alt="vkj" />
+        <img src="/assets/Company logo (3).png" alt="cvc" />
+        <img src="/assets/Company logo (4).png" alt="vkj" />
       </div>
       <div className=" flex gap-12 mt-10">
         <h2 className="bg-[#51e65bd9] text-2xl rounded-lg w-[100px] h-[40px] text-center font-bold">
@@ -66,7 +66,7 @@ const Main = () => {
 
             <img
               className="h-[200px] gap-4 mt-7 ml-11 "
-              src="/src/assets/Illustration (1).png"
+              src="/assets/Illustration (1).png"
               alt="ond"
             />
           </div>
@@ -88,7 +88,7 @@ const Main = () => {
 
             <img
               className="h-[150px] gap-8 mt-16 ml-20"
-              src="/src/assets/Illustration (2).png"
+              src="/assets/Illustration (2).png"
               alt="ond"
             />
           </div>
@@ -112,7 +112,7 @@ const Main = () => {
 
             <img
               className="h-[200px] gap-4 mt-7 ml-14 "
-              src="/src/assets/Illustration (3).png"
+              src="/assets/Illustration (3).png"
               alt="ond"
             />
           </div>
@@ -135,7 +135,7 @@ const Main = () => {
 
             <img
               className="h-[150px] gap-8 mt-16 ml-20"
-              src="/src/assets/tokyo-sending-messages-from-one-place-to-another 1.png"
+              src="/assets/tokyo-sending-messages-from-one-place-to-another 1.png"
               alt="ond"
             />
           </div>
@@ -159,7 +159,7 @@ const Main = () => {
 
             <img
               className="h-[200px] gap-4 mt-20 ml-20 "
-              src="/src/assets/Illustration (4).png"
+              src="/assets/Illustration (4).png"
               alt="ond"
             />
           </div>
@@ -181,7 +181,7 @@ const Main = () => {
 
             <img
               className="h-[150px] gap-8 mt-16 ml-20"
-              src="/src/assets/Illustration (5).png"
+              src="/assets/Illustration (5).png"
               alt="ond"
             />
           </div>
