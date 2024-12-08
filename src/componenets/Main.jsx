@@ -23,17 +23,17 @@ const Main = () => {
         <div>
           <img
             className="w-[500px] mr-1"
-            src="/src/assets/Illustration.png"
+            src="assets/Illustration.png"
             alt="the illustration "
           />
         </div>
       </div>
 
       <div className="flex gap-16 mt-10 ">
-        <img src="/src/assets/Company logo (5).png" alt="jku" />
-        <img src="/src/assets/Company logo.png" alt="companylo" />
-        <img src="/src/assets/Company logo (1).png" alt="clo" />
-        <img src="/src/assets/Company logo (2).png" alt="ccc" />
+        <img src="/assets/Company logo (5).png" alt="jku" />
+        <img src="/assets/Company logo.png" alt="companylo" />
+        <img src="/assets/Company logo (1).png" alt="clo" />
+        <img src="/assets/Company logo (2).png" alt="ccc" />
         <img src="/src/assets/Company logo (3).png" alt="cvc" />
         <img src="/src/assets/Company logo (4).png" alt="vkj" />
       </div>
