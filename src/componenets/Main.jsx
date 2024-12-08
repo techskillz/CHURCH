@@ -30,12 +30,12 @@ const Main = () => {
       </div>
 
       <div className="flex gap-16 mt-10 ">
-        <img src="/assets/Company logo (5).png" alt="jku" />
-        <img src="/assets/Company logo.png" alt="companylo" />
-        <img src="/assets/Company logo (1).png" alt="clo" />
-        <img src="/assets/Company logo (2).png" alt="ccc" />
-        <img src="/assets/Company logo (3).png" alt="cvc" />
-        <img src="/assets/Company logo (4).png" alt="vkj" />
+        <img src="assets/Company logo (5).png" alt="jku" />
+        <img src="assets/Company logo.png" alt="companylo" />
+        <img src="assets/Company logo (1).png" alt="clo" />
+        <img src="assets/Company logo (2).png" alt="ccc" />
+        <img src="assets/Company logo (3).png" alt="cvc" />
+        <img src="assets/Company logo (4).png" alt="vkj" />
       </div>
       <div className=" flex gap-12 mt-10">
         <h2 className="bg-[#51e65bd9] text-2xl rounded-lg w-[100px] h-[40px] text-center font-bold">
