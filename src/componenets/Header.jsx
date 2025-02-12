@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
       <div>
-        <nav className="p-5 m-1">
+        <nav className="p-5 m-7">
           <div className="flex gap-80 ">
             <div className="flex">
               {" "}
